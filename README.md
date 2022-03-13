@@ -6,4 +6,4 @@ The MechaCar_mpg.csv dataset contains mpg test results of 50 prototype,which wer
 ###Linear Regression 
    The linear regression was calculated using R in R Studio(R 4.1.2).The R script was applied to the dataset on several variables to get the following coefficients.
    
-   ![Deli_1_summarystatistics.png](Images/Deli_1_summarystatistics.png)
+   ![Deli_1_summarystatistics.png](Resources/Images/Deli_1_summarystatistics.png)
