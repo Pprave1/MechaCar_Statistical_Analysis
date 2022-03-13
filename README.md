@@ -39,3 +39,5 @@ The MechaCar_mpg.csv dataset contains mpg test results of 50 prototype,which wer
    
 
 3) Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
+
+    R-squared value is .7149 which is a strong correlation for the dataset.But the R-squared value is not the only consideration paramater for effectiveness,there may be other variables  not included in the dataset contributing to the variation in the mpg
