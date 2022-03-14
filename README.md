@@ -12,7 +12,7 @@ The MechaCar_mpg.csv dataset contains mpg test results of 50 prototype,which wer
 ### Box plot show the residuals: displaying Median,1Q,3Q,Max,Min
 
 
-  ![deliverable_1_boxplot.png](Resources/Images/deliverable_1_boxplot.png)
+  ![Deliverable_1_boxplot.png](Resources/Images/Deliverable_1_boxplot.png)
 
 
   
