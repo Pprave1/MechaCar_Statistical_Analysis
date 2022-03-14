@@ -91,8 +91,8 @@ The MechaCar_mpg.csv dataset contains mpg test results of 50 prototype,which wer
  
  ## Study Design: MechaCar vs Competition.
  
- ### When comparing MechaCar to its competitor’s other metrics that could be of interest to a consumer could include cost, car color, city fuel efficiency, highway fuel 
- ### efficiency, horsepower, maintenance cost, or safety rating.
+  When comparing MechaCar to its competitor’s other metrics that could be of interest to a consumer could include cost, car color, city fuel efficiency, highway fuel 
+  efficiency, horsepower, maintenance cost, or safety rating.
  
  
  1)What metric or metrics are you going to test?
