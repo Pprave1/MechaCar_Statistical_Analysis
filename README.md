@@ -92,16 +92,17 @@ The MechaCar_mpg.csv dataset contains mpg test results of 50 prototype,which wer
  
  ## Study Design: MechaCar vs Competition.
  
- ### When comparing MechaCar to its competitor’s other metrics that could be of interest to a consumer could include cost, car color, city fuel efficiency, highway fuel efficiency, horsepower, maintenance cost, or safety rating.
+ ### When comparing MechaCar to its competitor’s other metrics that could be of interest to a consumer could include cost, car color, city fuel efficiency, highway fuel 
+ ### efficiency, horsepower, maintenance cost, or safety rating.
  
  1)What metric or metrics are you going to test?
  
-    The metrics to test dhould be safety rating,hp and highway fuel efficiency,which address some safety concern
+    The metrics to test should be safety rating,hp and highway fuel efficiency,which address some safety concern
     
  2)What is the null hypothesis or alternative hypothesis?
  
-  HO/null hypothesis is what we believe in the predicted parameter,here the mean of the safety rating is zero.
-  H1/alternative hypothesis is what is , <or>than our null hypothesis ,here mean of the safety rating is not zero
+    HO/null hypothesis is what we believe in the predicted parameter,here the mean of the safety rating is zero.
+    H1/alternative hypothesis is what is , <or>than our null hypothesis ,here mean of the safety rating is not zero
     
  3)What statistical test would you use to test the hypothesis? And why?
     
@@ -110,7 +111,7 @@ The MechaCar_mpg.csv dataset contains mpg test results of 50 prototype,which wer
  
  4) What data is needed to run the statistical test?
     
-    More random sample  ,would need to be collected including actual variables and predicted and run using Rstudio.
+    More random sample ,would need to be collected including actual variables and predicted and run using Rstudio.
  
  
  
