@@ -63,8 +63,7 @@ The MechaCar_mpg.csv dataset contains mpg test results of 50 prototype,which wer
  ![Deliverable_2_summary.png](Resources/Images/Deliverable_2_summary.png)
  
  
- ### The Overall variance for the total manuafacturing lot is 62 < 100 (in total_summary <100) which is in the expected design   
- ###  specifications, so all good.
+ ### The Overall variance for the total manuafacturing lot is 62 < 100 (in total_summary <100) which is in the expected designspecifications, so all good.
  ### However,Lot 3 is an outlier ,cause the variance high and does not meet the design specification.
  
  
@@ -95,9 +94,10 @@ The MechaCar_mpg.csv dataset contains mpg test results of 50 prototype,which wer
  ### When comparing MechaCar to its competitor’s other metrics that could be of interest to a consumer could include cost, car color, city fuel efficiency, highway fuel 
  ### efficiency, horsepower, maintenance cost, or safety rating.
  
+ 
  1)What metric or metrics are you going to test?
  
-    The metrics to test should be safety rating,hp and highway fuel efficiency,which address some safety concern
+    The metrics to test should be safety rating,hp and highway fuel efficiency,which address some safety concern.
     
  2)What is the null hypothesis or alternative hypothesis?
  
@@ -111,9 +111,8 @@ The MechaCar_mpg.csv dataset contains mpg test results of 50 prototype,which wer
  
  4) What data is needed to run the statistical test?
     
-    More random sample ,would need to be collected including actual variables and predicted and run using Rstudio.
- 
- 
+    More random sample ,would need to be collected including actual variables and predicted and run using RStudio.
+
  
  
  
