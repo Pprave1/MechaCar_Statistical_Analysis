@@ -74,7 +74,7 @@ The MechaCar_mpg.csv dataset contains mpg test results of 50 prototype,which wer
  ## Deliverable 3
  ## T-Tests on Suspension Coils
  
-### The overall manufacturing  of Lot1 and Lot2  shows a normal distribution as shown below,that is  p>0.05, cannot reject null hypothesis (i.e., mean = 1500).
+### The overall manufacturing  of Lot1 and Lot2  shows a normal distribution as shown below in corrected_code image,that is  p>0.05, cannot reject null hypothesis (i.e., mean = 1500).
 ### However,Lot 3  p<0.05 reject null hypothesis and that dataset is not statistically similar.
 
 
@@ -88,10 +88,25 @@ The MechaCar_mpg.csv dataset contains mpg test results of 50 prototype,which wer
  
  ## Study Design: MechaCar vs Competition.
  
- ###
+ ### When comparing MechaCar to its competitor’s other metrics that could be of interest to a consumer could include cost, car color, city fuel efficiency, highway fuel efficiency, horsepower, maintenance cost, or safety rating.
  
+ 1)What metric or metrics are you going to test?
  
+    The metrics to test dhould be safety rating,hp and highway fuel efficiency,which address some safety concern
+    
+ 2)What is the null hypothesis or alternative hypothesis?
  
+  HO/null hypothesis is what we believe in the predicted parameter,here the mean of the safety rating is zero.
+  H1/alternative hypothesis is what is , <or>than our null hypothesis ,here mean of the safety rating is not zero
+    
+ 3)What statistical test would you use to test the hypothesis? And why?
+    
+    A multiple linear regression statistical summary would show how the variables impact the safety ratings for MechaCar and their 
+    competitors.Also,t-test would help to evaluate the null hypothesis
+ 
+ 4) What data is needed to run the statistical test?
+    
+    More random sample  ,would need to be collected including actual variables and predicted and run using Rstudio.
  
  
  
