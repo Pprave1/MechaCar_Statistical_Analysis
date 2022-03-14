@@ -49,22 +49,22 @@ The MechaCar_mpg.csv dataset contains mpg test results of 50 prototype,which wer
 
 3) Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
 
-    R-squared value is .7149 which is a strong correlation for the dataset.OR 71% of variance between atual and predicted values can be explained by our model.So effectively,yes.
+    R-squared value is .7149 which is a strong correlation for the dataset.OR 71% of variance between atual and predicted values can be explained by our model.So 
+     effectively,yes.
     
     
 ## Deliverable 2
 
 ## Summary Statistics on Suspension Coils
-1)The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. Does the current manufacturing data meet this design specification for all manufacturing lots in total and each lot individually? Why or why not?
+### The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. Does the current ### manufacturing data meet this design specification for all manufacturing lots in total and each lot individually? Why or why not?
  
- ### The summary Statisticsof all maufacturing lots is shown below. the mean is 1498.78 for this sample and the population mean was  
-       determined as 1500
+### The summary Statisticsof all maufacturing lots is shown below. the mean is 1498.78 for this sample and the population mean was   ### determined as 1500
  
  ![Deliverable_2_summary.png](Resources/Images/Deliverable_2_summary.png)
  
  
  ### The Overall variance for the total manuafacturing lot is 62 < 100 (in total_summary <100) which is in the expected design   
-    specifications, so all good.
+ ###  specifications, so all good.
  ### However,Lot 3 is an outlier ,cause the variance high and does not meet the design specification.
  
  
