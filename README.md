@@ -59,6 +59,9 @@ The MechaCar_mpg.csv dataset contains mpg test results of 50 prototype,which wer
  
  ### The summary Statisticsof all maufacturing lots is shown below. the mean is 1498.78 for this amaple and the population mean was determined as 1500
  
+ ![Deliverable_2_summary.png](Resources/Images/Deliverable_2_summary.png)
+ 
+ 
 ![Deliverable_2_group_by.png](Resources/Images/Deliverable_2_group_by.png)
 
 
