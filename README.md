@@ -8,6 +8,12 @@ The MechaCar_mpg.csv dataset contains mpg test results of 50 prototype,which wer
    A summary of the linear regression can be displayed to determine the quality of data set.
    
    ![Deli_1_summarystatistics.png](Resources/Images/Deli_1_summarystatistics.png)
+   
+### Box plot show the residuals: displaying Median,1Q,3Q,Max,Min
+
+  ![deliverable_1_boxplot.png](Resources/Images/deliverable_1_boxplot.png)
+
+
   
    
 1) Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
@@ -40,4 +46,4 @@ The MechaCar_mpg.csv dataset contains mpg test results of 50 prototype,which wer
 
 3) Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
 
-    R-squared value is .7149 which is a strong correlation for the dataset.But the R-squared value is not the only consideration paramater for effectiveness,there may be other variables  not included in the dataset contributing to the variation in the mpg
+    R-squared value is .7149 which is a strong correlation for the dataset.OR 71% of variance between atual and predicted values can be explained by our model.So effectively         yes.
