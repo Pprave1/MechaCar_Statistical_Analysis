@@ -78,7 +78,9 @@ The MechaCar_mpg.csv dataset contains mpg test results of 50 prototype,which wer
 ### However,Lot 3  p<0.05 reject null hypothesis and that dataset is not statistically similar.
 
 
- ![corrected_code_Deliverable 3.png](Resources/Images/corrected_code_Deliverable 3.png)
+
+ ![corrected_code_Deliverable3.png](Resources/Images/corrected_code_Deliverable3.png)
+ 
 
 
  ![Deliverable_3_t_test.png](Resources/Images/Deliverable_3_t_test.png)
