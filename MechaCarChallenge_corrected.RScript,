@@ -1,0 +1,3 @@
+ggplot(hair,aes(x=HairColour,y=Pain)) + geom_boxplot()
+aov(Pain~HairColour,data=hair)
+summary(aov(Pain~HairColour,data=hair))
