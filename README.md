@@ -61,8 +61,9 @@ The MechaCar_mpg.csv dataset contains mpg test results of 50 prototype,which wer
  
  ![Deliverable_2_summary.png](Resources/Images/Deliverable_2_summary.png)
  
- The Overall variance for the total manuafacturing lot is 62 < 100 (in total_summary <100) which is in the expected design specifications, so all good.
- However,Lot 3 is an outlier ,cause the variance high and does not meet the design specification.
+ 
+ ### The Overall variance for the total manuafacturing lot is 62 < 100 (in total_summary <100) which is in the expected design specifications, so all good.
+     However,Lot 3 is an outlier ,cause the variance high and does not meet the design specification.
  
  
  ![Deliverable_2_group_by.png](Resources/Images/Deliverable_2_group_by.png)
