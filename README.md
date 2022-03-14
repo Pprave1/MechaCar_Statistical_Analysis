@@ -102,12 +102,12 @@ The MechaCar_mpg.csv dataset contains mpg test results of 50 prototype,which wer
  2)What is the null hypothesis or alternative hypothesis?
  
     HO/null hypothesis is what we believe in the predicted parameter,here the mean of the safety rating is zero.
-    H1/alternative hypothesis is what is , <or>than our null hypothesis ,here mean of the safety rating is not zero
+    H1/alternative hypothesis is what is , <or>than our null hypothesis ,here mean of the safety rating is not zero.
     
  3)What statistical test would you use to test the hypothesis? And why?
     
     A multiple linear regression statistical summary would show how the variables impact the safety ratings for MechaCar and their 
-    competitors.Also,t-test would help to evaluate the null hypothesis
+    competitors.Also,t-test would help to evaluate the null hypothesis.
  
  4) What data is needed to run the statistical test?
     
