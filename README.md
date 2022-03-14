@@ -84,6 +84,12 @@ The MechaCar_mpg.csv dataset contains mpg test results of 50 prototype,which wer
  
  ![Deliverable_3_t_test_2.png](Resources/Images/Deliverable_3_t_test_2.png)
  
+ ## Deliverable 4
+ 
+ ## Study Design: MechaCar vs Competition.
+ 
+ ###
+ 
  
  
  
